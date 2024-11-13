@@ -1,0 +1,10 @@
+{
+  "green_style1": {
+    "$type": "color",
+    "$value": "#9AFFE1"
+  },
+  "green_style2": {
+    "$type": "color",
+    "$value": "#1D6650"
+  }
+}
