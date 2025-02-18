@@ -1,0 +1,36 @@
+{
+  "Emerald": {
+    "400": {
+      "$type": "color",
+      "$value": "#00d492"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#00bc7d"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#83f9d2"
+    }
+  },
+  "Indigo": {
+    "400": {
+      "$type": "color",
+      "$value": "#7c86ff"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#615fff"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#4f39f6"
+    }
+  },
+  "breakpoints": {
+  },
+  "hslvalue": {
+    "$type": "color",
+    "$value": "#000000"
+  }
+}
