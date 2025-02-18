@@ -1,0 +1,6 @@
+{
+  "Greeting": {
+    "$type": "string",
+    "$value": "¡Hola!"
+  }
+}
