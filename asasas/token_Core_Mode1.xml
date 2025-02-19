@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+  <color name="color_emerald_400">#ff00d492</color>
+  <color name="color_emerald_500">#ff00bc7d</color>
+  <color name="color_emerald_600">#ff83f9d2</color>
+  <color name="color_indigo_400">#ff7c86ff</color>
+  <color name="color_indigo_500">#ff615fff</color>
+  <color name="color_indigo_600">#ff4f39f6</color>
+  <color name="color_hslvalue">#73c58484</color>
+  
+</resources>
