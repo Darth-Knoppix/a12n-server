@@ -1,0 +1,48 @@
+{
+  "Emerald": {
+    "400": {
+      "$type": "color",
+      "$value": "#00d492"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#00bc7d"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#83f9d2"
+    }
+  },
+  "Indigo": {
+    "400": {
+      "$type": "color",
+      "$value": "#7c86ff"
+    },
+    "500": {
+      "$type": "color",
+      "$value": "#615fff"
+    },
+    "600": {
+      "$type": "color",
+      "$value": "#4f39f6"
+    }
+  },
+  "breakpoints": {
+    "large": {
+      "$type": "number",
+      "$value": 1080
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 960
+    },
+    "small": {
+      "$type": "number",
+      "$value": 480
+    }
+  },
+  "hslvalue": {
+    "$type": "color",
+    "$value": "#c5848473"
+  }
+}
